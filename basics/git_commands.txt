@@ -1,0 +1,8 @@
+sudo apt install git - установка системы git.
+git --version - проверка версии.
+git config --global user.name "meowmakers"
+git config --global user.email "chshamshynov@gmail.com" - настройка имени и почты.
+git config --list - проверка настроек.
+ssh-keygen - генерация  ssh keys.
+cat ~/.ssh/id_rsa.pub - получение ssh ключа.
+3
